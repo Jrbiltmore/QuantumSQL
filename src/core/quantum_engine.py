@@ -1,5 +1,4 @@
 # QuantumSQL/src/core/quantum_engine.py
-# QuantumSQL/src/core/quantum_engine.py
 
 import numpy as np
 from qiskit import QuantumCircuit, execute, Aer
